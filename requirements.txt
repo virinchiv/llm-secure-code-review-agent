@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+tree_sitter
+bandit
+langchain
+python-dotenv
+pytest
+requests
